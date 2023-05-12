@@ -26,6 +26,8 @@ I'm a french student studing IT & Network Management & IT Maintenance as the CES
 
 - 🌱 I’m currently learning IT at CESI Engineering school.
 
+- 🗣️ My native language is French and I do speak English too, but as you can see I'm mostly speaking English, as it's the language I do understand the most.
+
 - 👯 I’m looking to collaborate on [Moni-Chan v2 Discord Bot](https://github.com/AzhamProdLive/Moni-Chan-v2-DiscordBot), which is my biggest project so far.
 
 - 🤔 I’m looking for help with proofreading, JS coding on [Moni-Chan v2 Discord Bot](https://github.com/AzhamProdLive/Moni-Chan-v2-DiscordBot) & someone who does beautiful textarts for Readme's.
