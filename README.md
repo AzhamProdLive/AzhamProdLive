@@ -40,3 +40,5 @@ I'm a french student studing IT & Network Management & IT Maintenance as the CES
 
 - ⚡ Fun fact: Australia doesn't exist. *for legal reasons this is a joke*
 
+- 📈 Some stats of mine over GitHub : 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azhammakestrash&show_icons=true&bg_color=00000000)
