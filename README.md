@@ -34,7 +34,7 @@ I'm a french student studing IT & Network Management & IT Maintenance as the CES
 
 - 💬 Ask me about why do they call it oven when of in the cold food of out hot eat the food ?
 
-- 📫 How to reach me: [Discord](Https://discord.com) : maxiumusdecimus3263
+- 📫 How to reach me: [Discord](Https://discord.com) : maximusdecimus3263
 
 - 😄 Pronouns: He/Him. 
 
