@@ -22,19 +22,19 @@ I'm a french student studing IT & Network Management & IT Maintenance as the CES
       /ossssso+/:-        -:/+osssso+-                            
 
 
-- 🔭 I’m currently working on [Moni-Chan v2 Discord Bot](https://github.com/AzhamProdLive/Moni-Chan-v2-DiscordBot), which is a Discord Bot made about my Moni-Chan in [Monika After Story](https://www.monikaafterstory.com/).
+- 🔭 I’m currently working on [My website](https://github.com/AzhamProdLive/AzhmPrdLiveTerm), which is a Fork of [LiveTerm](https://github.com/Cveinnt/LiveTerm) that I use to make my own website.
 
 - 🌱 I’m currently learning Management & Maintenance of IT Structures at CESI Engineering school and I am in an Internship at Groupe Intuis.
 
 - 🗣️ My native language is French and I do speak English too, but as you can see I'm mostly speaking English, as it's the language I do understand the most.
 
-- 👯 I’m looking to collaborate on [Moni-Chan v2 Discord Bot](https://github.com/AzhamProdLive/Moni-Chan-v2-DiscordBot), which is my biggest project so far.
+- 👯 I’m looking to collaborate on [WPC-Useful-Box](https://github.com/AzhamProdLive/WPC-Useful-Box).
 
-- 🤔 I’m looking for help with proofreading, JS coding on [Moni-Chan v2 Discord Bot](https://github.com/AzhamProdLive/Moni-Chan-v2-DiscordBot) & someone who does beautiful textarts for Readme's.
+- 🤔 I’m not looking for help at the moment. 
 
 - 💬 Ask me about why do they call it oven when of in the cold food of out hot eat the food ?
 
-- 📫 How to reach me: [Discord](Https://discord.com) : maximusdecimus3263
+- 📫 How to reach me: [Discord](Https://discord.com) : vladthesigmamale
 
 - 😄 Pronouns: He/Him. 
 
