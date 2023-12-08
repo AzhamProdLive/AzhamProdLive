@@ -42,4 +42,4 @@ I'm a french student studing IT & Network Management & IT Maintenance as the CES
 
 - 📈 Some stats of mine over GitHub :
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzhamProdLive&show_icons=true&bg_color=00000000)
+![Azham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzhamProdLive&show_icons=true&bg_color=00000000)
