@@ -21,6 +21,9 @@ I'm a french student studing IT & Network Management & IT Maintenance as the CES
        /ossssssss/        +ssssooo/-
       /ossssso+/:-        -:/+osssso+-                            
 
+- 💻 My Server Specs : 
+TODO
+
 
 - 🔭 I’m currently working on [My website](https://github.com/AzhamProdLive/AzhmPrdLiveTerm), which is a Fork of [LiveTerm](https://github.com/Cveinnt/LiveTerm) that I use to make my own website.
 
