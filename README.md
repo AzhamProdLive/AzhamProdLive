@@ -13,7 +13,7 @@ I'm a french student studing IT & Network Management & IT Maintenance as the CES
                `/:-:++oooo+:              GPU : NVIDIA GeForce RTX 3060 Mobile / Max-Q 
               `/++++/+++++++:             Disks : - Samsung NVMe SSD 980 (1 TB)
              `/++++++++++++++:                    - Unnamed Samsung SSD Drive (500 GB)
-            `/+++ooooooooooooo/`                  - Seagate Samsung SATA HDD (500 GB)
+            `/+++ooooooooooooo/`                  - Seagate Samsung SATA HDD (1 TB)
            ./ooosssso++osssssso+`         Memory: 16 GB
           .oossssso-````/ossssss+`        
          -osssssso.      :ssssssso.       
