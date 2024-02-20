@@ -21,8 +21,24 @@ I'm a french student studing IT & Network Management & IT Maintenance as the CES
        /ossssssss/        +ssssooo/-
       /ossssso+/:-        -:/+osssso+-                            
 
-- 💻 My Server Specs : 
-TODO
+- 💻 My Server Specs :
+                   
+                   -`                    azhmprd@linux-server
+                  .o+`                   ---------------------
+                 `ooo/                   OS: Arch Linux x86_64
+                `+oooo:                  Host: Vostro 5581
+               `+oooooo:                 Shell: bash 5.2.26
+               -+oooooo+:                Resolution: 1920x1080
+             `/:-:++oooo+:               CPU: Intel i5-8265U (8) @ 3.900GHz
+            `/++++/+++++++:              Disks : - Samsung NVMe (256 GB)
+           `/++++++++++++++:             Memory : 16 GB
+          `/+++ooooooooooooo/`           
+         ./ooosssso++osssssso+`          
+        .oossssso-````/ossssss+`         
+       -osssssso.      :ssssssso.        
+      :osssssss/        osssso+++.       
+
+
 
 
 - 🔭 I’m currently working on [My website](https://github.com/AzhamProdLive/AzhmPrdLiveTerm), which is a Fork of [LiveTerm](https://github.com/Cveinnt/LiveTerm) that I use to make my own website, my own Server machine, and started working again on my Discord bot.
