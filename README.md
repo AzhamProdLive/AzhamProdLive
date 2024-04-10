@@ -41,7 +41,7 @@ I'm a french student studing IT & Network Management & IT Maintenance as the CES
 
 
 
-- 🔭 I’m currently working on [My website](https://github.com/AzhamProdLive/AzhmPrdLiveTerm), which is a Fork of [LiveTerm](https://github.com/Cveinnt/LiveTerm) that I use to make my own website, my own Server machine, and started working again on my Discord bot.
+- 🔭 I’m currently working on My website, my own Server machine, and started working again on my Discord bot.
 
 - 🌱 I’m currently learning Management & Maintenance of IT Structures at CESI Engineering school and I am in an Internship at Groupe Intuis.
 
